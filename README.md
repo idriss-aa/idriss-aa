@@ -45,7 +45,7 @@
 [![Linkedin](https://img.shields.io/badge/-Idriss%20AAZZA-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/idriss-aazza/)  
 
 ### Stats 📈
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=idriss-aa" alt="idriss-aa" /> </p>
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=idriss-aa&hide=stars&show_icons=true&theme=blueberry" />
 
 <img align="left" width="47%" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriss-aa&hide_title=true&layout=compact&theme=blueberry" />  
