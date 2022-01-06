@@ -48,9 +48,7 @@
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=idriss-aa&hide=stars&show_icons=true&theme=blueberry" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriss-aa&layout=compact&theme=blueberry" />  
-
-
+<img align="left" width="47%" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriss-aa&hide_title=true&layout=compact&theme=blueberry" />  
 
 
 
